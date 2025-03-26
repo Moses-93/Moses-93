@@ -10,6 +10,3 @@ I build scalable backend solutions, develop Telegram bots, and automate processe
 ---
 
 💡 *"Code should not only work but be elegant."*  
-
-
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Moses-93}&theme={github_dark}
