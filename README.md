@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Andrii
 
-🛠 Python Developer | FastAPI, Django, AsyncIO  
+🛠 Software Engineer | Python, FastAPI, SQL, Redis, Docker
 
 I build scalable backend solutions, develop Telegram bots, and automate processes.  
 
