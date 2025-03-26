@@ -10,3 +10,6 @@ I build scalable backend solutions, develop Telegram bots, and automate processe
 ---
 
 💡 *"Code should not only work but be elegant."*  
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moses-93)](https://github.com/Moses-93/github-readme-activity-graph)
